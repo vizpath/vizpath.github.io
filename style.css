@@ -267,7 +267,10 @@ button:focus {
   background-image: -webkit-linear-gradient(0deg, #4dabff 0%, #62ddff 100%);
   background-image: -ms-linear-gradient(0deg, #4dabff 0%, #62ddff 100%); }
   .home_banner_area .banner_inner {
-    width: 100%; }
+    background: url(../img/cover-bg.png);
+    width: 100%;
+    background-size: cover;
+    }
     .home_banner_area .banner_inner .home_left_img {
       padding-top: 230px;
       padding-bottom: 230px; }
