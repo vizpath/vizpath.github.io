@@ -24,13 +24,13 @@ body {
   line-height: 24px;
   font-size: 14px;
   font-family: "Roboto", sans-serif;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   font-weight: normal;
   overflow-x: hidden;
   color: #777777; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   font-weight: bold; }
 
 button:focus {
@@ -71,7 +71,7 @@ button:focus {
   text-align: center;
   margin-bottom: 75px; }
   .main_title h2 {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     font-size: 36px;
     color: #222222;
     font-weight: bold;
@@ -130,7 +130,7 @@ button:focus {
     }
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 12px/100px "Roboto", sans-serif;
-        font-family: 'Comfortaa', cursive;
+        font-family: 'Comfortaa', sans-serif;
         text-transform: uppercase;
         color: #fff;
         padding: 0px;
@@ -252,7 +252,7 @@ button:focus {
     display: inline-block;
     color: #fff;
     font-family: "Roboto", sans-serif;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     margin-right: 50px;
@@ -265,7 +265,7 @@ button:focus {
     background: #3bacf0;
     color: #fff;
     font-family: "Roboto", sans-serif;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     line-height: 40px;
     display: block;
     padding: 0px 40px;
@@ -299,7 +299,7 @@ button:focus {
         margin-top: 0px;
         font-size: 48px;
         font-weight: bold;
-        font-family: 'Comfortaa', cursive;
+        font-family: 'Comfortaa', sans-serif;
         line-height: 54px;
         margin-bottom: 20px; }
       .home_banner_area .banner_inner .banner_content p {
@@ -373,7 +373,7 @@ button:focus {
       .banner_area .banner_inner .banner_content h2 {
         color: #fff;
         font-size: 36px;
-        font-family: 'Comfortaa', cursive;
+        font-family: 'Comfortaa', sans-serif;
         margin-bottom: 0px;
         text-transform: uppercase;
         font-weight: bold; }
@@ -2437,7 +2437,7 @@ h6 {
   padding: 0px 35px;
   color: #fff;
   font-family: "Roboto", sans-serif;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 13px;
   font-weight: 500;
   line-height: 50px;
@@ -2516,7 +2516,7 @@ h6 {
   background: rgba(255, 255, 255, 0.1);
   color: #fff;
   font-family: "Roboto", sans-serif;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   width: 134px;
   font-size: 14px;
   font-weight: 500;
@@ -2590,7 +2590,7 @@ h6 {
   background: rgba(255, 255, 255, 0.1);
   color: #fff;
   font-family: "Roboto", sans-serif;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   width: 134px;
   font-size: 13px;
   font-weight: 500;
@@ -2697,7 +2697,7 @@ h6 {
   color: #222222;
   line-height: 45px;
   font-size: 36px;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   font-weight: bold;
   margin-bottom: 20px; }
 .made_life_text h6 {
@@ -2728,7 +2728,7 @@ h6 {
     .impress_area .impress_inner h2 {
       color: #fff;
       font-size: 36px;
-      font-family: 'Comfortaa', cursive;
+      font-family: 'Comfortaa', sans-serif;
       font-weight: bold;
       margin-bottom: 18px; }
     .impress_area .impress_inner p {
@@ -2809,7 +2809,7 @@ h6 {
       margin-bottom: 20px; }
     .testi_item .media .media-body h4 {
       color: #222222;
-      font-family: 'Comfortaa', cursive;
+      font-family: 'Comfortaa', sans-serif;
       font-weight: bold;
       font-size: 20px;
       transition: all 300ms linear 0s; }
@@ -2917,7 +2917,7 @@ h6 {
     color: #fff;
     font-size: 20px;
     font-weight: bold;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     margin-bottom: 0px; }
 
 .ab_widget p {
@@ -3009,4 +3009,14 @@ h6 {
 .img-shadow {
   border: 1px solid #eee;
   box-shadow: 1px 1px 20px #0003;
+}
+
+.details-subtitle {
+  color: #474747;
+}
+
+.details-icon {
+  font-size: 20px;
+  margin-right: 8px;
+  color: #aab1b9;
 }
