@@ -67,6 +67,11 @@
 		bottom: 6px;
 		position: relative;
 	}
+	.made_life_inner .nav.nav-tabs li {
+		flex: 0 0 50%;
+		max-width: 50%;
+		margin-bottom: 15px;
+	}
 	.navbar-toggler span{
 		display: block;
 		width: 25px;
@@ -176,7 +181,9 @@
 	/* End End Footer Area css
 	============================================================================================ */
 	.home_banner_area .banner_inner .home_left_img {
-		display: none;
+		/*display: none;*/
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 	}
 	.header_area .navbar .tickets_btn {
 		display: none;

@@ -114,7 +114,7 @@ button:focus {
     width: 100%; }
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
-    .nav-item:after {
+    .nav-tabs .nav-item:after {
       content: '>';
       position: absolute;
       top: 20px;
@@ -2665,7 +2665,7 @@ h6 {
   .made_life_inner .nav.nav-tabs li {
     flex: 0 0 25%;
     max-width: 25%;
-    padding: 0px 15px; 
+    padding: 0px 15px;
     position: relative; }
     .made_life_inner .nav.nav-tabs li a {
       border: none;
