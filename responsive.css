@@ -72,6 +72,11 @@
 		max-width: 50%;
 		margin-bottom: 15px;
 	}
+	.made_life_inner .nav.nav-tabs li:after {
+		content: '';
+    top: 0;
+    right: 0;
+	}
 	.navbar-toggler span{
 		display: block;
 		width: 25px;
@@ -251,6 +256,11 @@
 		max-width: 50%;
 		margin-bottom: 15px;
 	}
+	.made_life_inner .nav.nav-tabs li:after {
+		content: '';
+    top: 0;
+    right: 0;
+	}
 	.made_life_inner .nav.nav-tabs {
 		margin-bottom: -15px;
 	}
@@ -260,7 +270,11 @@
 	}
 }
 @media (max-width:600px){
-
+	.made_life_inner .nav.nav-tabs li {
+		flex: 0 0 100%;
+		max-width: 100%;
+		margin-bottom: 15px;
+	}
 }
 @media (max-width:575px){
 	.top_menu {
