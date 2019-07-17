@@ -3020,3 +3020,9 @@ h6 {
   margin-right: 8px;
   color: #aab1b9;
 }
+
+.chart-name {
+  text-align: center;
+  color: #fff;
+  padding-top: 1rem;
+}
